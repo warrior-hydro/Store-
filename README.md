@@ -1,3 +1,2 @@
 # Store-
-Warrior hydroponics 
-permissions:
+Warrior hydroponics
