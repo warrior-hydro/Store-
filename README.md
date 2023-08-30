@@ -1,2 +1,2 @@
 # Store-
-Warrior hydroponics
+Warriorhydroponics.myshopify.com
